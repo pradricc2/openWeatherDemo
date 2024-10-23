@@ -47,5 +47,5 @@ openWeatherDemo è un'applicazione basata su Spring Boot che integra i dati mete
 
 ## Utilizzo
 L'applicazione espone un'API REST per ottenere i dati meteo. Puoi accedere ai dati tramite il seguente endpoint:
-- `GET /api/weather`: Ottiene i dati meteo attuali e le previsioni.
+- `GET /weather`: Ottiene i dati meteo attuali e le previsioni.
 
